@@ -10,7 +10,7 @@ Join my **6-week AWS & Bedrock Bootcamp**, a **live online program** designed sp
   Weekly 2-hour Zoom sessions with Q\&A and hands-on walkthroughs
 
 * 🌍 **Exclusive Pilot Opportunity**
-  Be 1 of just **2 learners** to shape this program and receive **1:1 personalized coaching**
+  Be among the first to shape this program and enjoy personalized 1:1 coaching tailored to your goals.
 
 * 💸 **Near-Zero Cost**
   All core projects run on the **AWS Free Tier**
