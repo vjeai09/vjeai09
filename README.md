@@ -47,7 +47,7 @@ Include your **name**, **current role**, and a short note on **why you’re inte
 
 ## 🛠️ About Me
 
-With **20+ years of real-world experience**, including 16 years in a global MNC bank, I bring **practical, industry-tested expertise**. My mission is to help IT leaders and professionals get hands-on again and **transition into cloud-native and AI-driven roles**.
+With **20+ years of real-world experience**, I bring **practical, industry-tested expertise**. My mission is to help IT leaders and professionals get hands-on again and **transition into cloud-native and AI-driven roles**.
 
 ### ✅ Real Projects I’ve Delivered
 
