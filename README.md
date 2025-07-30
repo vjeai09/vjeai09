@@ -60,7 +60,7 @@ With **20+ years of real-world experience**, I bring **practical, industry-teste
 ## 🧠 My Skillset
 
 * **Languages**: Python, React
-* **Cloud & AI**: AWS (EC2, Lambda, S3, IAM), Amazon Bedrock, GitHub Copilot
+* **Cloud & AI**: AWS (EC2, Lambda, S3, IAM), Amazon Bedrock
 * **Superpower**: Architecting **scalable, cost-efficient AI solutions** for real-world business needs
 
 ---
