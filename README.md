@@ -37,9 +37,8 @@ Join my **6-week AWS & Bedrock Bootcamp**, a **live online program** designed sp
 
 ## 🔥 Secure Your Spot in the Pilot Program
 
-* 🧪 Only **1–2 learners** will be accepted
-* 🎁 Includes **1:1 coaching** and early access to all updates
-* 🕒 **Apply by August 15, 2025**
+* 🎁 Includes **1:1 coaching** 
+
 
 📧 **Email**: [vjeai.tech@gmail.com](mailto:vjeai.tech@gmail.com)
 Include your **name**, **current role**, and a short note on **why you’re interested**
