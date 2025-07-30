@@ -19,7 +19,7 @@ Join my **6-week AWS & Bedrock Bootcamp**, a **live online program** designed sp
 
 ---
 
-### 📅 What You’ll Learn
+### What You’ll Learn
 
 **Weeks 1–3: AWS Foundations**
 ✅ Core Services: EC2, S3, Lambda, IAM
