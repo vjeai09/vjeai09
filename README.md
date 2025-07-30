@@ -52,7 +52,7 @@ With **20+ years of real-world experience**, including 16 years in a global MNC 
 
 ### ✅ Real Projects I’ve Delivered
 
-* Migrated thousands of microservices to AWS ECS & EKS
+* Migrated 100s of microservices to AWS ECS & EKS. 
 * Rebuilt ETL pipelines from Informatica to AWS Redshift & Databricks
 * **Designed & developed RAG apps** using **Azure OpenAI** and **Amazon Bedrock**
 
